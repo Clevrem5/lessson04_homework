@@ -36,7 +36,7 @@ class CategoriesPage extends StatelessWidget {
                 fit: BoxFit.cover,
               ),
             ),
-          ),
+          ),//
         ),
         title: const Text(
           "Categories",
